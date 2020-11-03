@@ -1,0 +1,12 @@
+{
+    "name": "ienvironment-nodered",
+    "description": "Node Red for ienvironment",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_ip-172-31-13-243.sa-east-1.compute.internal.json",
+            "credentialsFile": "flows_ip-172-31-13-243.sa-east-1.compute.internal_cred.json"
+        }
+    }
+}
